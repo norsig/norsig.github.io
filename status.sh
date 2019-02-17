@@ -462,7 +462,7 @@ EOF
 function item_ok() {
 	cat << EOF
 <li class="list-group-item">
-	<span class="badge"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></span>
+	<span class="badge"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="color:green"></span></span>
 EOF
 
 	if [[ "$MY_OK_COMMAND" = "ping" ]]; then
