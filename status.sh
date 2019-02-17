@@ -366,7 +366,7 @@ function page_header() {
 <meta name="robots" content="noindex, nofollow">
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" href="$MY_STATUS_STYLESHEET">
-<link rel="stylesheet" href="https://assets.norsig.com/css/logotype.min.css">
+<link rel="stylesheet" href="https://status.norsig.com/assets/css/logotype.min.css">
 </head>
 <body>
 <div class="container">
