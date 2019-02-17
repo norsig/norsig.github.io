@@ -462,7 +462,7 @@ EOF
 function item_ok() {
 	cat << EOF
 <li class="list-group-item">
-	<span class="badge"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="background-color:green"></span></span>
+	<span class="badge" style="background-color:green"><span class="glyphicon glyphicon-ok" aria-hidden="true" style="background-color:green"></span></span>
 EOF
 
 	if [[ "$MY_OK_COMMAND" = "ping" ]]; then
@@ -481,7 +481,7 @@ EOF
 function item_down() {
 	cat << EOF
 <li class="list-group-item">
-	<span class="badge"><span class="glyphicon glyphicon-remove" aria-hidden="true" style="background-color:red"></span>
+	<span class="badge" style="background-color:red"><span class="glyphicon glyphicon-remove" aria-hidden="true" style="background-color:red"></span>
 EOF
 
 	if [[ "$MY_DOWN_TIME" -gt "1" ]]; then
