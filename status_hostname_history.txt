@@ -1,0 +1,21 @@
+
+curl;https://northernsignal.com;;900;2019-02-16 07:30:01 UTC
+curl;https://northernsignal.com;;900;2019-02-14 22:30:01 UTC
+curl;https://northernsignal.com;;900;2019-02-14 21:45:01 UTC
+curl;https://northernsignal.com;;900;2019-02-14 20:15:01 UTC
+curl;https://privateswitch.com;;900;2019-02-14 07:45:01 UTC
+curl;https://privateswitch.com;;900;2019-02-13 21:00:01 UTC
+curl;https://privateswitch.com;;1800;2019-02-12 21:15:01 UTC
+curl;https://privateswitch.com;;890;2019-02-11 01:15:01 UTC
+curl;https://northernsignal.com;;890;2019-02-11 01:15:01 UTC
+curl;https://northernsignal.com;;898;2019-02-10 22:30:01 UTC
+ping;git.norsig.com;;900;2019-02-09 22:15:01 UTC
+curl;https://northernsignal.com;;901;2019-02-09 00:15:02 UTC
+nc;sip.privateswitch.com;5060;3600;2019-02-09 00:00:01 UTC
+curl;https://privateswitch.com;;2700;2019-02-08 23:45:01 UTC
+curl;https://northernsignal.com;;900;2019-02-08 23:30:01 UTC
+curl;https://northernsignal.com;;900;2019-02-08 11:00:01 UTC
+nc;sip.privateswitch.com;5060;900;2019-02-08 07:15:01 UTC
+curl;https://northernsignal.com;;900;2019-02-07 11:45:01 UTC
+curl;https://privateswitch.com;;18;2019-02-06 16:52:00 UTC
+curl;https://privateswitch.com;;62;2019-02-06 15:10:59 UTC
