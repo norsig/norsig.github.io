@@ -402,7 +402,7 @@ function page_footer() {
 </footer>
 
 </div>
-<!-- Powered by https://github.com/Cyclenerd/static_status -->
+<!-- Powered by https://northernsignal.com/ -->
 </body>
 </html>
 
